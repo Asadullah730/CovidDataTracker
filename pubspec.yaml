@@ -42,6 +42,14 @@ dependencies:
   shimmer: ^3.0.0
   get: ^4.7.1
 
+  # for Changing App Icon
+  flutter_launcher_icons: "^0.14.3"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "Assets/images/logo.jpeg"
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
