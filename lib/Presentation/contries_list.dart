@@ -2,7 +2,6 @@ import 'package:cronavirus/Presentation/specific_country_detail.dart';
 import 'package:cronavirus/Services/statsApis.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:get/get.dart';
 import 'package:shimmer/shimmer.dart';
 
